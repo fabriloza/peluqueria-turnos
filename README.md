@@ -71,3 +71,7 @@ Usé un asistente de IA (Claude) para ordenar la estructura y hacerla mas "enten
 - se reviso y corregio el diagrama BPMN.
 
 Los errores de la IA cuentan como errores míos, por eso revisé el contenido antes de publicarlo.
+
+<img width="2400" height="1264" alt="bpmn" src="https://github.com/user-attachments/assets/34f59d06-9774-41fc-9b39-c4c7807ab385" />
+
+
