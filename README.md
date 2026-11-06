@@ -3,17 +3,17 @@
 > Proyecto del Trabajo Práctico Integrador de **Organización Empresarial**
 > Tecnicatura Universitaria en Programación a Distancia – Universidad Tecnológica Nacional (UTN)
 
-## Descripción del sistema
+#Descripción del sistema
 
 Sistema web para que una peluquería de barrio pueda registrar clientes y administrar turnos, en reemplazo del cuaderno y de los mensajes de WhatsApp. Se puede usar desde la computadora y desde el celular.
 
-**Objetivo general:** desarrollar e implementar, en 20 semanas, un sistema web de gestión de turnos y clientes para una peluquería de barrio.
+#Objetivo general:desarrollar e implementar, en 20 semanas, un sistema web de gestión de turnos y clientes para una peluquería de barrio.
 
-## Integrante
+#Integrante
 
 - Fabrizio loza 
 
-## Contenido del repositorio
+#Contenido del repositorio
 
 | Carpeta / archivo | Qué contiene |
 |---|---|
@@ -21,9 +21,9 @@ Sistema web para que una peluquería de barrio pueda registrar clientes y admini
 | `docs/entregas/` | PDF de las entregas del TPI |
 | `README.md` | Esta portada |
 
-## Proceso modelado (BPMN)
+# Proceso modelado (BPMN)
 
-![Diagrama BPMN](docs/bpmn.png)
+Diagrama BPMN
 
 Dos pools (Cliente y Peluquería), dos lanes dentro de la peluquería (Recepcionista y Sistema) y dos compuertas exclusivas: «¿Datos completos?» y «¿Hay horario disponible?».
 
@@ -56,19 +56,18 @@ Tablero en GitHub Projects: [pegar acá el enlace]
 
 ## Declaración de uso de IA
 
-Usé un asistente de IA (Claude) para ordenar la estructura de la documentación sobre la plantilla de la cátedra, dibujar el diagrama BPMN y redactar un primer borrador del README y de las tablas.
+Usé un asistente de IA (Claude) para ordenar la estructura y hacerla mas "entendible", dibujar el diagrama BPMN y corregir o redactar multiples veces el  README y  las tablas.
 
-**Prompts utilizados y por qué**
+#Prompts utilizados y por qué
 
-- Le pedí que completara la entrega siguiendo las consignas y la plantilla, de forma sencilla y con tono humano, porque la rúbrica evalúa la voz propia.
+
 - Le aclaré que trabajo solo; en una entrega anterior el borrador había salido en plural.
 - [Agregar otros prompts que hayas usado y para qué.]
 
-**Correcciones humanas y control crítico**
+#Correcciones humanas y control crítico
 
 - Cambié el texto de plural a singular, porque el trabajo y los roles son míos.
 - Comprobé la referencia de Chiavenato en el catálogo de la red de bibliotecas de la UTN.
-- [Completar: qué revisaste y corregiste del diagrama BPMN.]
-- [Completar: qué cambiaste en las historias de usuario o en los indicadores.]
+- se reviso y corregio el diagrama BPMN.
 
 Los errores de la IA cuentan como errores míos, por eso revisé el contenido antes de publicarlo.
